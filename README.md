@@ -26,5 +26,3 @@ If you end up loosing all your money while youre in hell you will loose the game
 
 If at any time you feel unsure of what buttons to press the active controls will be visible on screen with text that tells you what buttons to press to perform their actions.
 
-## Youtube link
-https://youtu.be/AzByUP2btrU
